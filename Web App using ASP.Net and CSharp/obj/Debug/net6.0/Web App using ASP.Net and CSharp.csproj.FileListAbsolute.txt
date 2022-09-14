@@ -1,0 +1,26 @@
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\appsettings.Development.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\appsettings.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\Web App using ASP.Net and CSharp.staticwebassets.runtime.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\Web App using ASP.Net and CSharp.exe
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\Web App using ASP.Net and CSharp.deps.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\Web App using ASP.Net and CSharp.runtimeconfig.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\Web App using ASP.Net and CSharp.dll
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\bin\Debug\net6.0\Web App using ASP.Net and CSharp.pdb
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.csproj.AssemblyReference.cache
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.AssemblyInfoInputs.cache
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.AssemblyInfo.cs
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.csproj.CoreCompileInputs.cache
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.RazorAssemblyInfo.cache
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.RazorAssemblyInfo.cs
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\scopedcss\bundle\Web App using ASP.Net and CSharp.styles.css
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\scopedcss\projectbundle\Web App using ASP.Net and CSharp.bundle.scp.css
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.dll
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\refint\Web App using ASP.Net and CSharp.dll
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.pdb
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\Web App using ASP.Net and CSharp.genruntimeconfig.cache
+C:\Web App using ASP.Net and C#\Web App using ASP.Net and CSharp\obj\Debug\net6.0\ref\Web App using ASP.Net and CSharp.dll
